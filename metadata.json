@@ -1,0 +1,5 @@
+{
+  "name": "Creative Performance Analyser",
+  "description": "An internal tool for evaluating influencer videos against performance benchmarks.",
+  "requestFramePermissions": []
+}
